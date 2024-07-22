@@ -30,7 +30,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 (4) Schedule presentations for Thursday evenings.
 
-![](https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/raw/main/img/python_coding.gif)
+![](https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/raw/main/img/vs_001.gif)
 
 ### Reference:
 
@@ -40,3 +40,4 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 4. https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 5. https://stanford.edu/~schmit/cme193/
 6. https://www.cp.eng.chula.ac.th/books/python101/
+7. https://www.beautiful.ai/
