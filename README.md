@@ -10,7 +10,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### (Big Data Module) Looker Studio: Business Insights Visualizations
 
-- Lecture Slides: https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/blob/main/slide/LookerStudio_2023.pdf
+- Lecture Slides: https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/blob/main/slide/LookerStudio_2024.pdf
 
 - Looker Studio: https://lookerstudio.google.com/overview
 - Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/raw/main/dataset/visualize/disaster_text.csv
