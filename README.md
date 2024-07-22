@@ -41,3 +41,4 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 5. https://stanford.edu/~schmit/cme193/
 6. https://www.cp.eng.chula.ac.th/books/python101/
 7. https://www.beautiful.ai/
+8. https://www.knowi.com/blog/knowi-vs-looker-a-comparison-review-on-pricing-functionality-ease-of-use-in-2023/
