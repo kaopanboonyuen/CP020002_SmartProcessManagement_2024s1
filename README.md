@@ -28,8 +28,6 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 (3) Utilize Google Data Studio to provide visual answers to these questions through data visualization.
 
-(4) Schedule presentations for Thursday evenings.
-
 ![](https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/raw/main/img/vs_001.gif)
 
 ### Reference:
