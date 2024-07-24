@@ -18,7 +18,7 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 
 ### :green_book: (Mini Project) Looker Studio: Business Insights Visualizations
 
-- Laboratory Activities (Looker Studio): N/A
+- Laboratory Activities (Looker Studio): https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/blob/main/assignment/CP020002-SPM-Laboratory-Activities-01.pdf
 
 ![](https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/raw/main/img/vs_001.gif)
 
