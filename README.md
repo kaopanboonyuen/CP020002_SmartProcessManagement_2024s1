@@ -16,10 +16,10 @@ Contact: teerapong.pa@chula.ac.th and panboonyuen.kao@gmail.com
 - Disaster Tweets (Data Set): https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/raw/main/dataset/visualize/disaster_text.csv
 - Med Resource (Data Set): https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/raw/main/dataset/visualize/med_resources_data.csv
 
-### Final Class: Becoming a Professional in Data Analytics
+### Final Class: Becoming a Pro in Data Analytics
 
 - Lecture Slides: https://github.com/kaopanboonyuen/CP020002_SmartProcessManagement_2024s1/blob/main/slide/Becoming_a_Professional_in_Data_Analytics.pdf
-- How to Score: N/A
+- Scoring Guide: N/A
 
 - Lecture Slides: 
 
